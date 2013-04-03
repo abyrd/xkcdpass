@@ -1,4 +1,5 @@
 xckdpass
 ========
 
-generate random combinations of four words
+Generate random combinations of four words.
+See: http://xkcd.com/936/
