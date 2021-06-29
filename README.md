@@ -1,4 +1,4 @@
-xckdpass
+xkcdpass
 ========
 
 Generate random combinations of four words.
